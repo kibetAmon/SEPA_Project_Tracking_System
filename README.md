@@ -11,3 +11,13 @@ The main users of the system are; The Project Manager(Admin), Student(Customer) 
 5. Update any changes to the project
 6. Track the overall project progress
 
+### Team Leader role
+1. Break down tasks into subtasks
+2. Estimate completion dates for new tasks
+3. Assign sub tasks to team members
+4. Record progress on a particular task
+5. Record completed tasks
+6. Record expected delays, justify them and provide new estimated completion dates
+
+
+
